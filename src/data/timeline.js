@@ -11,7 +11,7 @@ export default [
     title: "Constant Learning",
     duration: "",
     details:
-      "I started studying additional technologies focused on backend development, such as Java with Spring Boot, as well as React for frontend development. Additionally, I am reinforcing concepts related to data structures ",
+      "As a hobby I began to study additional technologies focused on backend development, such as Java with Spring Boot, as well as React for frontend development. I also began to reinforce concepts related to data structures.",
   },
   {
     year: "2022",
@@ -30,13 +30,13 @@ export default [
   {
     year: "2017",
     title: "Beginning of the Computer Systems Engineering degree",
-    duration: "7 years",
+    duration: "",
     details:
       "I started the Computer Systems Engineering degree at the University of El Salvador",
   },
   {
     year: "2016",
-    title: "GENERAL HIGH SCHOOL",
+    title: "General High School",
     duration: "the beginning",
     details:
       "Prom 2016 at Colegio Externado de San José I had my first touch with programming at the computer class",

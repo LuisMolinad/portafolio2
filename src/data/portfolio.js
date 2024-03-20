@@ -29,7 +29,7 @@ export default [
   {
     title: "ASEIAS-APP",
     imgUrl: "assets/ASEIAS.png",
-    stack: ["PHP", "Laravel", "JavaScript", "React", "CSS"],
+    stack: ["PHP", "Laravel", "JavaScript", "React", "Tailwind CSS"],
     link: "https://github.com/LuisMolinad/ASEIAS-APP",
   },
 ];
