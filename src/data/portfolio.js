@@ -1,13 +1,13 @@
 export default [
   {
     title: "Veterinary Appointment Control System",
-    imgUrl: "/assets/sistema-veterinaria.test.jpeg",
+    imgUrl: "./dist/assets/sistema-veterinaria.test.jpeg",
     stack: ["HTML", "CSS", "JavaScript", "PHP", "Laravel", "MySQL"],
     link: "https://github.com/LuisMolinad/SISTEMA-VETERINARIA",
   },
   {
     title: "Dental App",
-    imgUrl: "/assets/dental-app.png",
+    imgUrl: "./dist/assets/dental-app.png",
     stack: [
       "PHP",
       "Laravel",
@@ -22,13 +22,13 @@ export default [
   },
   {
     title: "Pizza Tracker",
-    imgUrl: "/assets/pizzatracker.png",
+    imgUrl: "./dist/assets/pizzatracker.png",
     stack: ["PHP", "Laravel", "JavaScript", "React", "CSS"],
     link: "https://github.com/LuisMolinad/PizzaTracker",
   },
   {
     title: "ASEIAS-APP",
-    imgUrl: "/assets/ASEIAS.png",
+    imgUrl: "./dist/assets/ASEIAS.png",
     stack: ["PHP", "Laravel", "JavaScript", "React", "CSS"],
     link: "https://github.com/LuisMolinad/ASEIAS-APP",
   },
