@@ -7,14 +7,14 @@ function Intro() {
         Luis Alfonso Molina Duque
       </h1>
       <p className="text-base md:text-xl mb-3 font-medium">
-        Software Engineer & Web Developer
+        Student in Computer Systems Engineering & Web Developer
       </p>
       <p className="text-sm max-w-xl mb-6 font-bold">
-        Graduate student of Computer Systems Engineering with a passion for
-        software development and constant learning, throughout my studies I have
-        had the opportunity to work with different technologies in different
-        areas. My goal is to start a career in the field of software
-        development.
+        Student with an impending diploma in Computer Systems Engineering,
+        passionate about software development and committed to continuous
+        learning. Throughout my studies, I've had the opportunity to work with
+        various technologies across different domains. My objective is to launch
+        a career in the field of software development.
         <br />
       </p>
     </div>
